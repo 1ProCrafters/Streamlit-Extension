@@ -1,0 +1,6 @@
+**
+!out/**/*.js
+!README.md
+!LICENSE.md
+!package.json
+!yarn.lock
